@@ -7,7 +7,7 @@ const OnlyFans = () => {
   React.useEffect(() => {
     setTimeout(() => {
       setShowImg(true);
-    }, 2500);
+    }, 1500);
   }, []);
 
   if (showImg) {
