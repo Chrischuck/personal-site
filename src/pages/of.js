@@ -26,7 +26,7 @@ const OnlyFans = () => {
   }
 
   return (
-    <div style={{ width: 400, margin: "auto", marginTop: "40vh" }}>
+    <div style={{ width: 200, margin: "auto", marginTop: "40vh" }}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 1900 400"
