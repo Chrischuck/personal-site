@@ -4,7 +4,6 @@ module.exports = {
       description: 'I am Chris Chuck.',
     },
     plugins: [
-      'gatsby-plugin-offline',
-      'gatsby-plugin-preact'
+      'gatsby-plugin-offline'
     ]
   };
